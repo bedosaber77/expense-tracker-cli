@@ -1,0 +1,22 @@
+{
+  "expenses": [
+    {
+      "description": "car",
+      "amount": 180,
+      "id": 1,
+      "date": "2024-08-21"
+    },
+    {
+      "description": "card",
+      "amount": 1850,
+      "id": 2,
+      "date": "2024-08-21"
+    },
+    {
+      "description": "dinner",
+      "amount": 1850,
+      "id": 3,
+      "date": "2024-08-21"
+    }
+  ]
+}
